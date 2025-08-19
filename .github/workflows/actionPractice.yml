@@ -38,3 +38,6 @@ jobs:
 
       - name: Output a message
         run: echo "Action Complete!"
+
+      - name: Output a message
+        run: echo "Action Complete!"
